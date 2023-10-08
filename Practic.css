@@ -1,0 +1,27 @@
+body {
+    background-color:seashell;
+}
+.heading p {
+    background-color: yellow;
+}
+#list {
+    color: magenta;
+}
+
+.tables.a {
+    background-color: yellow;
+    color: white;
+    border-radius: 25px;
+}
+.tables:hover {
+    background-color: maroon;
+    color: white;
+    border-radius: 25px;
+    max-width: auto;
+    height: 20px;
+    border: 3px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+    font-style: italic;
+    font-weight: bolder;
+}
